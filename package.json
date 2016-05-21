@@ -1,0 +1,22 @@
+{
+  "name": "camille",
+  "version": "1.0.0",
+  "description": "Node web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Expelliarmus923/Camille.git"
+  },
+  "keywords": [
+    "nodejs;web;framework"
+  ],
+  "author": "lulizhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Expelliarmus923/Camille/issues"
+  },
+  "homepage": "https://github.com/Expelliarmus923/Camille#readme"
+}
